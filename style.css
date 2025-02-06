@@ -2,7 +2,6 @@
 
 
 
-
 body {
     background-color: rgb(125, 130, 110);
     display: flex;
@@ -15,8 +14,8 @@ body {
 }
 
 .body {
-    width: 500px;
-    height: 350px;
+    width: 700px;
+    height: 900px;
     background-color: rgb(145, 203, 184);
     display: flex;
     justify-content: center;
@@ -30,15 +29,16 @@ body {
 }
 
 .erste {
-    font-size: 100px;
-    letter-spacing: 5px;
+    font-size: 250px;
+    letter-spacing: 6px;
 }
 
 .zweite { 
-    letter-spacing: 1px;
-    font-size: 35px;
+    letter-spacing: 2px;
+    font-size: 100px;
 }
 
 .zweite, .erste {
     color: black;
 }
+
